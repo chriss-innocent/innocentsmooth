@@ -1,0 +1,15 @@
+@font-face {
+font-family: '상상토끼 꽃집막내딸';
+src: url('../fonts/SSYoungestDaughter1family/SSYoungestDaughterRegular.ttf') format('truetype');}
+
+.ha-font{
+		font-family: '상상토끼 꽃집막내딸', sans-serif;
+		color: white;}
+
+@font-face {
+font-family: '상상토끼 개미똥구멍';
+src: url('../fonts/SSAnt1family/SSAntRegular.ttf') format('truetype');}
+
+.ha-font2{
+		font-family: '상상토끼 개미똥구멍', sans-serif;
+		color: white;}
